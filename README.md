@@ -38,6 +38,7 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 - [ ] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
       Dodajte jih v prvi razdelek tega dokumenta.
 
+
 <!-- 2. nivojski razdelek -->
 ## Uporabne povezave
 
